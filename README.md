@@ -8,7 +8,6 @@
 
 ### 下面看效果截图
 ![](http://oktwfu9lo.bkt.clouddn.com/abc.png)
-![](http://okr6bfdit.bkt.clouddn.com/1.png)
 ![](http://okr6bfdit.bkt.clouddn.com/2.png)
 ![](http://okr6bfdit.bkt.clouddn.com/3.png)
 ![](http://okr6bfdit.bkt.clouddn.com/4.png)
@@ -18,6 +17,6 @@
 ![](http://okr6bfdit.bkt.clouddn.com/9s.png)
 ![](http://okr6bfdit.bkt.clouddn.com/10.png)
 ![](http://okr6bfdit.bkt.clouddn.com/11.png)
-![](http://okr6bfdit.bkt.clouddn.com/12.png)
+![](http://oktwfu9lo.bkt.clouddn.com/12.png)
 ![](http://okr6bfdit.bkt.clouddn.com/13.png)
 ![](http://okr6bfdit.bkt.clouddn.com/14.png)
