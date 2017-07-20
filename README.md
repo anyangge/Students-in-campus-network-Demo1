@@ -7,7 +7,7 @@
 #### 登录注册：实现用户帐号校验
 
 ### 下面看效果截图
-![](http://oktwfu9lo.bkt.clouddn.com/bb.png)
+![](http://oktwfu9lo.bkt.clouddn.com/abc.png)
 ![](http://okr6bfdit.bkt.clouddn.com/1.png)
 ![](http://okr6bfdit.bkt.clouddn.com/2.png)
 ![](http://okr6bfdit.bkt.clouddn.com/3.png)
