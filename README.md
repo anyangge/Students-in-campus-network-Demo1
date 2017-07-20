@@ -1,5 +1,5 @@
 # PC端学生校园网
->这是自己大二第二学期末做的一个web项目，使用到的技术有：html、css、jsp、Struts2、Hibernate、MySql
+>这是自己大二第二学期末做的一个web项目，使用到的技术有：div+css、jsp、Struts2、Hibernate、MySql
 
 ### 主要模块：
 #### 论坛社区：提供看帖、发帖、回帖功能
@@ -7,6 +7,7 @@
 #### 登录注册：实现用户帐号校验
 
 ### 下面看效果截图
+![](http://oktwfu9lo.bkt.clouddn.com/bb.png)
 ![](http://okr6bfdit.bkt.clouddn.com/1.png)
 ![](http://okr6bfdit.bkt.clouddn.com/2.png)
 ![](http://okr6bfdit.bkt.clouddn.com/3.png)
